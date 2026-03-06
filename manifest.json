@@ -1,0 +1,9 @@
+{
+    "id": "mobile-swipe-blocker",
+    "name": "Mobile Swipe Blocker",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Disabilita lo swipe laterale per aprire le sidebar su mobile.",
+    "author": "Domenico Viscomi",
+    "isDesktopOnly": false
+}
